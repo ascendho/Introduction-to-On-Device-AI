@@ -1,6 +1,6 @@
 ## Introduction
 
-![image-20250109115833263](D:\COURSE\Introduction to On-Device AI\repo\assets\image-20250109115833263.png)
+![image-20250109115833263](assets\image-20250109115833263.png)
 
 This repository contains all the `ipynb` files and supporting files used in the course.
 
