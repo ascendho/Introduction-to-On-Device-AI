@@ -1,6 +1,6 @@
 ## Introduction
 
-![image-20250109115833263](assets\image-20250109115833263.png)
+<img src="assets\image-20250109115833263.png"></img>
 
 This repository contains all the `ipynb` files and supporting files used in the course.
 
